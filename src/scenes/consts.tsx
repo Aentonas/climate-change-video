@@ -1,0 +1,9 @@
+export const BORDER_MARGIN = 100;
+export const VIEW_WIDTH = 1920;
+export const VIEW_HEIGHT = 1080;
+export const BACKGROUND_COLOR = "#242424";
+export const BACKGROUND_COLOR_RGB = "36, 36, 36";
+export const SHAPES_OUTLINE_WIDTH = 20;
+export const DEFAULT_FONT = "Corbel";
+export const TITLE_FONT = "Rubik";
+export const DEFAULT_FONT_COLOR = "#f4fff2";

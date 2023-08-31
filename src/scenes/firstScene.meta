@@ -1,0 +1,182 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "introduction",
+      "targetTime": 0
+    },
+    {
+      "name": "earth",
+      "targetTime": 12.164487925372942
+    },
+    {
+      "name": "biosphere",
+      "targetTime": 14.334420084090707
+    },
+    {
+      "name": "progress bars",
+      "targetTime": 21.06349509657364
+    },
+    {
+      "name": "progress bar 1",
+      "targetTime": 21.93311283931447
+    },
+    {
+      "name": "progress bar 2",
+      "targetTime": 25.79765034555594
+    },
+    {
+      "name": "progress bar 3",
+      "targetTime": 26.79765034555594
+    },
+    {
+      "name": "disappear",
+      "targetTime": 28.144166979375473
+    },
+    {
+      "name": "factory clip",
+      "targetTime": 31.971371785010543
+    },
+    {
+      "name": "factory clip dissapear",
+      "targetTime": 38.8073230943686
+    },
+    {
+      "name": "title: apathy",
+      "targetTime": 40.58125066686088
+    },
+    {
+      "name": "title: apathy disappear",
+      "targetTime": 44.21911091912451
+    },
+    {
+      "name": "question",
+      "targetTime": 50.1153873981573
+    },
+    {
+      "name": "question disappear",
+      "targetTime": 54.521092580847366
+    },
+    {
+      "name": "quote",
+      "targetTime": 66.34028415548434
+    },
+    {
+      "name": "quote disappear",
+      "targetTime": 74.3915580808776
+    },
+    {
+      "name": "title: causes of apathy",
+      "targetTime": 78.80315717594561
+    },
+    {
+      "name": "title: causes of apathy disappear",
+      "targetTime": 81.80315717594561
+    },
+    {
+      "name": "title: powerlessness",
+      "targetTime": 82.80315717594561
+    },
+    {
+      "name": "title: powerlessness disappear",
+      "targetTime": 86.36612162631013
+    },
+    {
+      "name": "powerlessness",
+      "targetTime": 91.36612162631013
+    },
+    {
+      "name": "friends, family, government",
+      "targetTime": 99.7836397752879
+    },
+    {
+      "name": "friends",
+      "targetTime": 102.20892053700376
+    },
+    {
+      "name": "family",
+      "targetTime": 102.75891747914994
+    },
+    {
+      "name": "government",
+      "targetTime": 103.32343775299654
+    },
+    {
+      "name": "powerlessness disappear",
+      "targetTime": 103.92016498712428
+    },
+    {
+      "name": "remove list",
+      "targetTime": 105.06260339460688
+    },
+    {
+      "name": "title: desensitization",
+      "targetTime": 105.76008219947839
+    },
+    {
+      "name": "title: desensitization disappear",
+      "targetTime": 113.14979848023413
+    },
+    {
+      "name": "desensitization",
+      "targetTime": 120.60836640036763
+    },
+    {
+      "name": "bouncing pictures",
+      "targetTime": 126.21787834350899
+    },
+    {
+      "name": "desensitization disappear",
+      "targetTime": 130.130345305987
+    },
+    {
+      "name": "title: awareness",
+      "targetTime": 138.6533281176234
+    },
+    {
+      "name": "title: awareness disappear",
+      "targetTime": 142.0533281176234
+    },
+    {
+      "name": "awareness",
+      "targetTime": 145.11872809866486
+    },
+    {
+      "name": "awareness disappear",
+      "targetTime": 151.1847465255436
+    },
+    {
+      "name": "title: inspiration",
+      "targetTime": 155.89540049982284
+    },
+    {
+      "name": "title: inspiration disappear",
+      "targetTime": 159.29540049982285
+    },
+    {
+      "name": "inspiration",
+      "targetTime": 160.29540049982285
+    },
+    {
+      "name": "stage spin away",
+      "targetTime": 163.15101475911626
+    },
+    {
+      "name": "backyard",
+      "targetTime": 166.43040591760274
+    },
+    {
+      "name": "tree",
+      "targetTime": 168.76697325454057
+    },
+    {
+      "name": "inspiration disappear",
+      "targetTime": 170.83247959785555
+    },
+    {
+      "name": "closing",
+      "targetTime": 179.43590952938575
+    }
+  ],
+  "seed": 2043860964
+}
